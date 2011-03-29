@@ -2,4 +2,4 @@ Converts MySQLWorkbench SQL to oracle SQL. Fairly basic things like VARCHAR beco
 
 Things like number range in oracle will need to be configured manually.
 
-By default it produces SQL for oracle databases that have already been created.
+when exporting from MySQL workbench select "omit scheema qualifier in object names"
