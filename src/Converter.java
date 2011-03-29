@@ -13,7 +13,7 @@ public class Converter {
 
 		try {
 			StringBuffer sqlBuf = new StringBuffer();
-			Scanner inputFile = new Scanner(new File("test.sql"));
+			Scanner inputFile = new Scanner(new File("mysql.sql"));
 			
 	    	
 			
